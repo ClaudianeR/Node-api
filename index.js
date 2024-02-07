@@ -12,3 +12,4 @@ server.listen(PORT, HOST, ()=>   {
     console.log(`Servidor esta rodando em: http://${HOST}:${PORT}`);
 
 })
+
